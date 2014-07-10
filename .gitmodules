@@ -1,0 +1,3 @@
+[submodule "client/deps/cocos2d-x"]
+	path = client/deps/cocos2d-x
+	url = https://github.com/jiaozicat/cocos2d-x.git
