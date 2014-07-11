@@ -605,6 +605,7 @@
 				LIBRARY_SEARCH_PATHS = "";
 				PRODUCT_NAME = HelloCpp;
 				SDKROOT = iphoneos;
+				SYMROOT = ../../build;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/../../deps/cocos2d-x/cocos/platform/ios $(SRCROOT)/../../deps/cocos2d-x/cocos/platform/ios/Simulation $(SRCROOT)/../../deps/cocos2d-x/ $(SRCROOT)/../../deps/cocos2d-x/cocos $(SRCROOT)/../../deps/cocos2d-x/cocos/editor-support $(SRCROOT)/../../deps/cocos2d-x/cocos/extensions $(SRCROOT)/../../deps/cocos2d-x/cocos/external";
 				VALID_ARCHS = "armv7 armv7s";
@@ -633,6 +634,7 @@
 				LIBRARY_SEARCH_PATHS = "";
 				PRODUCT_NAME = HelloCpp;
 				SDKROOT = iphoneos;
+				SYMROOT = ../../build;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/../../deps/cocos2d-x/cocos/platform/ios $(SRCROOT)/../../deps/cocos2d-x/cocos/platform/ios/Simulation $(SRCROOT)/../../deps/cocos2d-x/ $(SRCROOT)/../../deps/cocos2d-x/cocos $(SRCROOT)/../../deps/cocos2d-x/cocos/editor-support $(SRCROOT)/../../deps/cocos2d-x/cocos/extensions $(SRCROOT)/../../deps/cocos2d-x/cocos/external";
 				VALID_ARCHS = "armv7 armv7s";
