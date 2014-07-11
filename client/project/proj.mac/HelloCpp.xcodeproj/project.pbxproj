@@ -184,8 +184,6 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
-				E2F4E9CB196F9D7C003B99BC /* ApplicationServices.framework */,
-				E2F4E9C9196F9D6C003B99BC /* Cocoa.framework */,
 				E2F4E9A3196F3BEE003B99BC /* src */,
 				E2F4E97A196F344D003B99BC /* deps */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
@@ -199,6 +197,8 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				E2F4E9CB196F9D7C003B99BC /* ApplicationServices.framework */,
+				E2F4E9C9196F9D6C003B99BC /* Cocoa.framework */,
 				D6B0611A1803AB670077942B /* CoreMotion.framework */,
 				503AE11A17EB9C5A00D1A890 /* IOKit.framework */,
 				503AE11117EB99EE00D1A890 /* libcurl.dylib */,
